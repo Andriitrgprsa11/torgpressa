@@ -1,4 +1,6 @@
-[
+{
+  "error": false,
+  "goods": [
         {
             "name": "Winston",
             "barcode": "5896473015201",
