@@ -1,0 +1,47 @@
+[
+  {
+    "price": 10.65, 
+    "barcode": 8988848763957, 
+    "name": "Orbit"
+  }, 
+  {
+    "price": 11.75, 
+    "barcode": 9068828763957, 
+    "name": "Dirol"
+  }, 
+  {
+    "price": 7.65, 
+    "barcode": 4890587967887, 
+    "name": "Pen"
+  }, 
+  {
+    "price": 6.65, 
+    "barcode": 8490900911149, 
+    "name": "Pencil"
+  }, 
+  {
+    "price": 5.5, 
+    "barcode": 8433398000057, 
+    "name": "Snickers"
+  }, 
+  {
+    "price": 4.65, 
+    "barcode": 8490009001988, 
+    "name": "Coffee"
+  }, 
+  {
+    "price": 555.66, 
+    "barcode": 8400908760057, 
+    "name": "ручка"
+  }, 
+  {
+    "price": 49.85, 
+    "barcode": 8490895001257, 
+    "name": "kкарандаш"
+  }, 
+  {
+    "price": 759.67, 
+    "barcode": 8490955983005, 
+    "name": "cheburek"
+  }
+]
