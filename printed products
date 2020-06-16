@@ -1,0 +1,47 @@
+[
+  {
+    "price": 5.65, 
+    "barcode": 8490948763990, 
+    "name": "Gazeta 1"
+  }, 
+  {
+    "price": 5.75, 
+    "barcode": 8474928763945, 
+    "name": "Gazeta 2"
+  }, 
+  {
+    "price": 5.65, 
+    "barcode": 489058763967, 
+    "name": "Gazeta 3"
+  }, 
+  {
+    "price": 5.65, 
+    "barcode": 8490900900998, 
+    "name": "Gazeta 4"
+  }, 
+  {
+    "price": 7.5, 
+    "barcode": 8433398763923, 
+    "name": "Gazeta 5"
+  }, 
+  {
+    "price": 5.65, 
+    "barcode": 8490009031111, 
+    "name": "Gazeta 6"
+  }, 
+  {
+    "price": 5.66, 
+    "barcode": 8400908763923, 
+    "name": "Gazeta 7"
+  }, 
+  {
+    "price": 9.85, 
+    "barcode": 8490895541256, 
+    "name": "Gazeta 8"
+  }, 
+  {
+    "price": 5.6, 
+    "barcode": 8490955983700, 
+    "name": "Gazeta 9"
+  }
+]
